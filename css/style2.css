@@ -1,0 +1,37 @@
+body {
+    max-width: 1000px;
+}
+img {
+    max-width: 500px;
+}
+.float {
+    float: left;
+}
+.float2 {
+    float: right;
+    margin-top: 55px;
+}
+.letrai {
+    text-indent: 140px;
+}
+.heightimg {
+    max-height: 420px;
+}
+.money::after {
+    content: " VND";
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: red;
+}
+.textdec {
+    text-decoration: line-through;
+}
